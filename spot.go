@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc/credentials/insecure"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	spotv1 "spot-sdk-go/proto-gen/spot_v1"
+	spotv1 "github.com/levitomazzo/spot-sdk-go/proto-gen/spot_v1"
 )
 
 type Client struct {

@@ -1,4 +1,4 @@
-module spot-sdk-go
+module github.com/levitomazzo/spot-sdk-go
 
 go 1.22.1
 
